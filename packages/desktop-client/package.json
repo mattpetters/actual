@@ -1,6 +1,6 @@
 {
   "name": "@mattpetters/actual-web",
-  "version": "24.5.1-mp",
+  "version": "24.5.2-mp",
   "license": "MIT",
   "files": [
     "build"
